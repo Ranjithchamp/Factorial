@@ -14,7 +14,8 @@ public class Factorial {
 		double ans=1;
 		if(input<0)
 		{
-			System.out.println("enter Positive number");
+		
+			System.out.println("factorial of "+input+" is "+0);
 		}
 		else if(input==0)
 		{
